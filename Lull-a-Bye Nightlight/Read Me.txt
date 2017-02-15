@@ -1,0 +1,5 @@
+This assignment was created for my Physical and Tangible HCI class at the University of Calgary. 
+It's a nightlight that plays soothing music to help little ones scared of the dark fall asleep. 
+
+Video Demo: 
+https://www.youtube.com/watch?v=LBPwmskZDKc

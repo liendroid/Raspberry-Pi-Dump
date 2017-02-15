@@ -1,0 +1,6 @@
+This is half working code on a 7 segment display. 
+The one I had used 8 pins rather than the standard 6. I used trial and error to figure out which pins did what. 
+As a reminder, pins 1,2, 6, 8, activate digits 1, 2, 3, 4, respectively. They don't need a resistor 
+and can be plugged directly into the GPIO pins. 
+
+Most examples for this displayed used a backpack, or arduino. 

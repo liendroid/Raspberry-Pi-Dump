@@ -1,0 +1,51 @@
+Bully Tunes is a fun musical instrutment to teach kids how to make music while having fun doing so. 
+Who doesn't wanna play with squishy soft things?
+
+Video Demo:
+https://www.youtube.com/watch?v=WG7coFGoVqQ
+
+Resources we tapped into:
+http://pythonforengineers.com/your-first-gui-app-with-python-and-pyqt/
+http://pythoncentral.io/intro-to-pysidepyqt-basic-widgets-and-hello-world/
+At first we looked at pyqt to create and design our gui, however, we quickly learnt that Tkinter
+was a better option.
+
+Tkinter
+https://gist.github.com/mrichardson23/3163938
+Example code that we used to understand how to use the library. It’s actually the code that
+introduced us to the library as well. We found it using google.
+http://stackoverflow.com/questions/7966119/display-fullscreen-mode-on-tkinter
+Full Screen Mode
+https://github.com/scotty3785/python/blob/master/TK%20Widgets/meter.py
+Progress bar for tkinter
+https://www.tutorialspoint.com/python/tk_canvas.htm
+The documentation for tk canvas
+http://zetcode.com/gui/tkinter/drawing/
+More examples
+http://zetcode.com/gui/tkinter/nibbles/
+Has code for collision detection with tkinter
+ADC stuff
+https://learn.adafruit.com/raspberry-pi-analog-to-digital-converters/mcp3008
+hooking up the ADC
+https://learn.adafruit.com/force-sensitive-resistor-fsr/testing-an-fsr
+Learning how to use a FSR
+https://learn.adafruit.com/reading-a-analog-in-and-controlling-audio-volume-with-the-raspber
+ry-pi/script
+More examples on the ADC because the other links didn’t work.
+https://pimylifeup.com/raspberry-pi-adc/
+Tutorial from sowmya. The output program eventually died on us and we had to go back to the
+adafruit program for testing, but the cirtcuit diagram was super helpful.
+https://www.raspberrypi.org/learning/getting-started-with-sonic-pi/worksheet/
+Sonic pi
+https://github.com/gkvoelkl/python-sonic
+https://pypi.python.org/pypi/python-sonic
+Which eventually bothered us so much that we jumped ship and went to pygame. Pygame was a
+lot more fluid and easier to use in terms of GUIs and threading. Or in the case of pygame,
+channels.
+https://www.tutorialspoint.com/python/python_multithreading.htm
+We did still need to learn how to use threading in our time with sonic pi/python pi, so this
+resource helped us understand how to use it.
+http://pygame.org/project-Pygame+Dice-1287-.html
+This was a great example as to how to integrate GUI elements into pygame.
+http://www.pygame.org/docs/
+We lived in the pygame documentation.
